@@ -7,5 +7,5 @@
 4. Isaac Muscat ID: 0265203L
 
 ## Deliverables:
-The repository includes 4 directories one for each question of the assignment</ br>
+The repository includes 2 directories one for each question of the assignment</ br>
  
