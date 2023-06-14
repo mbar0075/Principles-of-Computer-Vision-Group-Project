@@ -1,10 +1,10 @@
 # Principles of Computer Vision Group Project
  
 # Authors:
-1. Matthias Bartolo ID: 0436103L
-2. Luke Cardona ID: 0011803H
-3. Jerome Agius ID: 0353803L
-4. Isaac Muscat ID: 0265203L
+**Matthias Bartolo ID: 0436103L** <br>
+**Luke Cardona ID: 0011803H** <br>
+**Jerome Agius ID: 0353803L** <br>
+**Isaac Muscat ID: 0265203L** <br>
 
 ## Preview:
 <p align='center'>
@@ -21,5 +21,5 @@ This task explored a variety of data augmentation techniques in computer vision,
 </p>
 
 ## Deliverables:
-The repository includes 2 directories one for each question of the assignment
+**The repository includes 2 directories one for each question of the assignment**
  
